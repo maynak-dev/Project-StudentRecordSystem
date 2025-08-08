@@ -60,14 +60,23 @@ Run the app (F5 or Ctrl+F5)
 🧠 Folder Structure
 
 StudentRecordSystem/
+
 │
+
 ├── Models/                → Student model
+
 ├── Data/                  → EF Core DbContext
+
 ├── Controllers/           → StudentsController with CRUD
+
 ├── Views/
+
 │   └── Students/          → Index, Create, Edit Views
+
 ├── wwwroot/               → Static files (Bootstrap, CSS, JS)
+
 ├── appsettings.json       → Connection string
+
 └── Program.cs             → App startup
 
 
