@@ -82,4 +82,4 @@ StudentRecordSystem/
 
 🙋‍♂️ Author
 Maynak
-Feel free to connect on LinkedIn(https://in.linkedin.com/in/maynak-dey-4a0046377) or check out my other projects!(https://github.com/maynak-dev)
+Feel free to connect on LinkedIn(https://in.linkedin.com/in/maynak-dey) or check out my other projects!(https://github.com/maynak-dev)
